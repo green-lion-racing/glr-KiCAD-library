@@ -1,0 +1,181 @@
+(footprint "WECO-950-FB-08"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WECO-950-FB-08 StepUp generated footprint")
+	(property "Reference" "REF**"
+		(at 3 5 0)
+		(layer "F.SilkS")
+		(uuid "ae95ff79-a351-4fe6-ac70-e83834690f7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Value "
+		(at 4 -5 0)
+		(layer "F.SilkS")
+		(uuid "5a29c413-7d98-4225-a30d-9ea53f13a0d5")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94947f6a-50e1-4d7a-a74e-40098445682b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d83ddeb-46f5-4bb7-b037-ca92b26891c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "584073da-cee2-45db-ac20-71014f979455")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -4.438244)
+		(end 0 3.561756)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b972115-206a-4531-8f87-f9ec57c3401a")
+	)
+	(fp_line
+		(start 0 -4.438244)
+		(end 40 -4.438244)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a60e01f4-cf7c-489a-bbe3-aa4ca081e6fb")
+	)
+	(fp_line
+		(start 40 -4.438244)
+		(end 40 3.561756)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "521457df-fe32-419b-9b22-2ea9edeedbb4")
+	)
+	(fp_line
+		(start 40 3.561756)
+		(end 0 3.561756)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ac7964b-fcb2-45ae-9bd5-e8ac949a80a4")
+	)
+	(pad "1" thru_hole rect
+		(at 2.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bf9b2ac9-2b98-4085-acbc-2c53034668ba")
+	)
+	(pad "2" thru_hole circle
+		(at 7.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "60c76399-ff2d-4fbf-9250-273108f20b89")
+	)
+	(pad "3" thru_hole circle
+		(at 12.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "09cfd455-9dc4-4e91-a6e1-21fcf1acd0a8")
+	)
+	(pad "4" thru_hole circle
+		(at 17.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3a68d293-4e4e-44c7-84c0-7d2be5e19f13")
+	)
+	(pad "5" thru_hole circle
+		(at 22.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask" "B.SilkS")
+		(remove_unused_layers no)
+		(uuid "eb5c2a12-1b3a-46fb-b40a-e287dc6dad14")
+	)
+	(pad "6" thru_hole circle
+		(at 27.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "48a2ef3b-9455-40c3-80f4-182289bc40a2")
+	)
+	(pad "7" thru_hole circle
+		(at 32.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ae29d14c-7eac-4573-b6c3-71f1c31def8a")
+	)
+	(pad "8" thru_hole circle
+		(at 37.5 -0.438)
+		(size 2 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b02014bd-540d-469d-9f27-c34bda5d0370")
+	)
+	(model "C:/GitHub/glr-KiCAD-library/GLR_KiCAD_Library.3dshapes/950-FB-08.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
