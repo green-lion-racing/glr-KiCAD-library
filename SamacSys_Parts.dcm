@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP L9615D013TR
+D High Speed Can Bus Transceiver
+K
+F https://www.st.com/resource/en/datasheet/l9615.pdf
+$ENDCMP
+#
+$CMP C0805C104K4JACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT Cap Cer 0805 0.1F 16VDC U2J
+K
+F https://search.kemet.com/component-documentation/download/specsheet/C0805C104K4JACAUTO
+$ENDCMP
+#
+$CMP GCM188R71C104KA37J
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT .1uF 16Volts 10%
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM188R71C104KA37-01A.pdf
+$ENDCMP
+#
+$CMP M20-7820842
+D HARWIN - M20-7820842 - PCB Receptacle, Board-to-Board, 2.54 mm, 1 Rows, 8 Contacts, Through Hole Mount, M20 Series
+K
+F https://cdn.harwin.com/pdfs/M20-782.pdf
+$ENDCMP
+#
+$CMP 39543-0008
+D Fixed Terminal Blocks 5MM FIX PCB TERM BLK W/SRW PRES CLP 8CIR
+K
+F https://www.molex.com/pdm_docs/sd/395430008_sd.pdf
+$ENDCMP
+#
+$CMP 39543-0604
+D 5.00mm Pitch Eurostyle Vertical Fixed Mount PCB Terminal Block, Low Profile, 4 Circuits
+K
+F https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/395/39543/395430604_sd.pdf?inline
+$ENDCMP
+#
+#End Doc Library
