@@ -1,0 +1,230 @@
+(footprint "LF80CDTTR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "LF80CDT-TR-1")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC**"
+		(at 0.35 0 0)
+		(layer "F.SilkS")
+		(uuid "00463780-9885-4628-b00f-a78727d86f26")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "LF80CDTTR"
+		(at 0.35 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "515da301-98b0-47a1-8015-2917b6a934b1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "701f3514-20df-4c22-b1a2-be6753fd5011")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34a83aec-844e-48e2-a96c-98a98a725974")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d6172c4-d788-4e30-8d5c-32b62aeb376a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 6.6 2.3)
+		(end 6.6 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d41f8ca0-7e18-4e17-b065-f761c8b5f4ab")
+	)
+	(fp_line
+		(start 6.6 2.4)
+		(end 6.6 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17e566f0-b74a-4acd-a9a7-68d770b30d6a")
+	)
+	(fp_arc
+		(start 6.6 2.3)
+		(mid 6.65 2.35)
+		(end 6.6 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f01ad8b7-8c0a-434f-a5e8-d7e5809b189a")
+	)
+	(fp_arc
+		(start 6.6 2.4)
+		(mid 6.55 2.35)
+		(end 6.6 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e69fc7e-ba4a-49a1-9397-e1be043b0605")
+	)
+	(fp_line
+		(start -6.4 -4.35)
+		(end 7.1 -4.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5de103e6-ebde-4f41-b4f8-2be90c719d37")
+	)
+	(fp_line
+		(start -6.4 4.35)
+		(end -6.4 -4.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "adf15e80-b9a6-4f53-941a-6523a6022264")
+	)
+	(fp_line
+		(start 7.1 -4.35)
+		(end 7.1 4.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fbfa60bc-3f6a-41ba-a89f-ce9d748de97f")
+	)
+	(fp_line
+		(start 7.1 4.35)
+		(end -6.4 4.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8e16ee62-17c7-45d7-b55b-d23166cb915e")
+	)
+	(fp_line
+		(start -4.6 -3.25)
+		(end 1.5 -3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4581a29e-09db-4c39-85b6-fa75ce52fdd7")
+	)
+	(fp_line
+		(start -4.6 3.25)
+		(end -4.6 -3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "60677297-cbcf-476f-a467-e128384ad212")
+	)
+	(fp_line
+		(start 1.5 -3.25)
+		(end 1.5 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "15cb9e3b-70d4-48ed-ab10-78288015af2c")
+	)
+	(fp_line
+		(start 1.5 3.25)
+		(end -4.6 3.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8363c9f-2752-439a-adcb-42397befc07c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.35 0 0)
+		(layer "F.Fab")
+		(uuid "7bd84325-7e7d-49d5-862e-2b903dc38183")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 4.6 2.3 90)
+		(size 1.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "434c23b1-4d6d-423d-9b75-9e394243605c")
+	)
+	(pad "2" smd rect
+		(at -2.05 0 90)
+		(size 6.7 6.7)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "73b8aa94-1f47-4da7-8e0d-42610189a1b3")
+	)
+	(pad "3" smd rect
+		(at 4.6 -2.3 90)
+		(size 1.6 3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0fc6227a-5284-4989-8df9-9cd6620767f5")
+	)
+	(model "C:/GitHub/glr-KiCAD-library/SamacSys_Parts.3dshapes/LF80CDT-TR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)

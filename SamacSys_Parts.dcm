@@ -42,4 +42,10 @@ K
 F https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/395/39543/395430604_sd.pdf?inline
 $ENDCMP
 #
+$CMP LF80CDT-TR
+D LDO Voltage Regulators 8.0V 0.5A Positive
+K
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
+$ENDCMP
+#
 #End Doc Library
