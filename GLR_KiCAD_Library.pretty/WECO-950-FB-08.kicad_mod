@@ -167,15 +167,15 @@
 		(remove_unused_layers no)
 		(uuid "b02014bd-540d-469d-9f27-c34bda5d0370")
 	)
-	(model "C:/GitHub/glr-KiCAD-library/GLR_KiCAD_Library.3dshapes/950-FB-08.wrl"
+	(model "C:/GitHub/glr-KiCAD-library/GLR_KiCad_Library.3dshapes/WECO-950-FB-08.STEP"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0.875 3.25)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 0 90)
 		)
 	)
 )
