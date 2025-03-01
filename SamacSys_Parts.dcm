@@ -48,4 +48,22 @@ K
 F https://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
 $ENDCMP
 #
+$CMP ESDCAN01-2BLY
+D STMICROELECTRONICS - ESDCAN01-2BLY - DIODE, TVS, CAN BUS, 230W, SOT-23-3
+K
+F https://componentsearchengine.com/Datasheets/2/ESDCAN01-2BLY.pdf
+$ENDCMP
+#
+$CMP CL10B104KB8NNNC
+D Ceramic cap 0603 X7R 50V 100nF (Reel)
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408969.pdf
+$ENDCMP
+#
+$CMP CRCW060368R1FKEA
+D Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 68.1 +/-1% 0.1W +/-100ppm/C
+K
+F http://www.vishay.com/docs/20035/dcrcwe3.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -197,4 +197,68 @@ P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model ESDCAN01-2BLY
+#/728682/1580826/2.50/3/3/TVS Diode (Bi-directional)
+DEF ESDCAN01-2BLY D 0 30 Y Y 1 F N
+F0 "D" 650 300 50 H V L CNN
+F1 "ESDCAN01-2BLY" 650 200 50 H V L CNN
+F2 "SOT95P255X125-3N" 650 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/ESDCAN01-2BLY.pdf" 650 0 50 H I L CNN
+F4 "STMICROELECTRONICS - ESDCAN01-2BLY - DIODE, TVS, CAN BUS, 230W, SOT-23-3" 650 -100 50 H I L CNN "Description"
+F5 "1.25" 650 -200 50 H I L CNN "Height"
+F6 "511-ESDCAN01-2BLY" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDCAN01-2BLY?qs=Ok1pvOkw6%2FpNzC2RQnWwPA%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ESDCAN01-2BLY" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL10B104KB8NNNC
+#/563789/1580826/2.50/2/3/Capacitor
+DEF CL10B104KB8NNNC C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL10B104KB8NNNC" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408969.pdf" 350 -50 50 H I L CNN
+F4 "Ceramic cap 0603 X7R 50V 100nF (Reel)" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "" 350 -350 50 H I L CNN "Bürklin Part Number"
+F7 "" 350 -450 50 H I L CNN "Bürklin Price/Stock"
+F8 "SAMSUNG" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CL10B104KB8NNNC" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CRCW060368R1FKEA
+#/185809/1580826/2.50/2/5/Resistor
+DEF CRCW060368R1FKEA R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "CRCW060368R1FKEA" 550 150 50 H V L CNN
+F2 "RESC1608X50N" 550 50 50 H I L CNN
+F3 "http://www.vishay.com/docs/20035/dcrcwe3.pdf" 550 -50 50 H I L CNN
+F4 "Vishay CRCW Series Thick Film Surface Mount Resistor 0603 Case 68.1 +/-1% 0.1W +/-100ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "0.5" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "CRCW060368R1FKEA" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
 #End Library
