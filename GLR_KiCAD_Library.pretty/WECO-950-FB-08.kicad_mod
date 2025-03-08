@@ -1,7 +1,7 @@
 (footprint "WECO-950-FB-08"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "WECO-950-FB-08 StepUp generated footprint")
 	(property "Reference" "REF**"
@@ -23,18 +23,6 @@
 			(font
 				(size 0.8 0.8)
 				(thickness 0.12)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "94947f6a-50e1-4d7a-a74e-40098445682b")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
 			)
 		)
 	)
@@ -139,7 +127,7 @@
 		(at 22.5 -0.438)
 		(size 2 2)
 		(drill 1)
-		(layers "*.Cu" "*.Mask" "B.SilkS")
+		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "eb5c2a12-1b3a-46fb-b40a-e287dc6dad14")
 	)
@@ -167,6 +155,7 @@
 		(remove_unused_layers no)
 		(uuid "b02014bd-540d-469d-9f27-c34bda5d0370")
 	)
+	(embedded_fonts no)
 	(model "C:/GitHub/glr-KiCAD-library/GLR_KiCad_Library.3dshapes/WECO-950-FB-08.STEP"
 		(offset
 			(xyz 0 0.875 3.25)
